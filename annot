@@ -1,0 +1,62 @@
+o ga4 era a chamado de webapp
+uniao do site com app
+ga4 pode ser a uniao com webapp
+universal analytics
+session-centric data model (modelo de dados baseados na sessoes) universal analytics
+user-centric event-based model (baseado em eventos)
+
+conversoes em
+
+antigamente era ga + firebase
+unificação de dados app + site
+ga4 é a combinacao de ga + firebase
+é a base do firebase
+ga4 é a base do firebase com coisas a mais
+
+ga4 o que tem de novo?
+novo modelo de dados
+nova plataforma
+novas features
+
+enhanced measurement (metricas otimizadas)
+tipo de eventos:
+page views, scrolls, outbound clicks, site search, video engagement
+enhanced measurement pega o geral (padrao)
+trackeia alguns eventos de forma auto, sem nenhum tipo de set-up
+isso nao quer dizer que voce nao vai querer fazer alguns trackings personalizados
+
+relatorios = trazem mais dados que ga universal
+é possivel personalizar a barra lateral (nav)
+
+identifica usuários de forma diferente:user ids, google signals - usuarios logados no google (google signals, sao sinais que a pessoas estao logadas pelo google) proposta é saber se a pessoa esta logada pelo site e pelo celular
+
+os dados de relatorios sao mais flexiveis:
+nao tinha como voltar atras. no ga4 é possivel ter essa flexibilidade
+
+
+relatorio em tempo real:
+nova ui, mais dados
+
+debug view:
+debug é quando faz a instalaçao de um tag. de algum event, a gente testa aquele evento. Mapear a conversao. Os testes eram todos no gtm
+
+publicos:
+tempo de acao. E possivel, por exemplo, criar publicos de quem comprou, exclusao de publicos
+
+event scoping:
+criar eventos é possivel combinar varios eventos para gerar uma conversao
+a pessoa der play no video e baixou o arquivo e rolou a pagina pra baixa
+
+
+trackeamento de conversoes:
+ga universal 20 conversoes, agora tem mais de 100
+
+funil: no ga é ruim
+no ga4 é possivel criar funis
+path analysis
+
+
+bigquery: é possivel exportar todos os seus dados para o bigquery
+
+fazer o dual tag
+ga + ga4
